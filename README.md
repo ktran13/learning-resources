@@ -12,14 +12,12 @@
 
 ## Conferences
 ### Major
-+ AngleBrackets, [https://anglebrackets.org/#!/]
 + DevIntersection, [https://devintersection.com/#!/]
     + Visual Studio, ASP.NET, Azure, SQL, Sharepoint, Office 365
 + F8, [https://www.fbf8.com/]
 + Google I/O, [https://events.google.com/io2016/]
 + Microsoft Build, [https://build.microsoft.com/]
-+ ngConf, [https://www.ng-conf.org/#/]
-+ NodeConf EU, [http://www.nodeconf.eu/]
++ WWDC, [https://developer.apple.com/wwdc/]
 + O'Reilly Conferences, [http://www.oreilly.com/conferences/]
   + Hadoop
   + OSCON, Open Source
@@ -27,14 +25,30 @@
   + Software Architecture
   + The Web Platform
   + Velocity
+
+### Languages and Frameworks
+
+#### Java
 + Oracle Java One, Open World [https://www.oracle.com/javaone/index.html], [https://www.oracle.com/openworld/index.html]
+
+#### AngularJS
++ AngleBrackets, [https://anglebrackets.org/#!/]
++ ngConf
+
+#### NodeJS
++ ngConf, [https://www.ng-conf.org/#/]
++ NodeConf EU, [http://www.nodeconf.eu/]
++ Node Interactive US, [http://events.linuxfoundation.org/events/node-interactive]
++ Node Interactive Europe, [http://events.linuxfoundation.org/events/node-interactive-europe]
++ The Strange Loop, [http://www.thestrangeloop.com/]
+
+#### ReactJS
 + React.js Conf, [http://conf.reactjs.com/]
 + ReactRally, [http://www.reactrally.com/#/]
-+ The Strange Loop, [http://www.thestrangeloop.com/]
-+ WWDC, [https://developer.apple.com/wwdc/]
 
-### Local
+#### Javascript
 + An Event Apart, [http://aneventapart.com/]
 + DevFest DC, [http://www.devfestdc.org/]
++ NationJS, [http://nationjs.com/]
 
 ## Meetups
