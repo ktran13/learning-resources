@@ -33,10 +33,9 @@
 
 #### AngularJS
 + AngleBrackets, [https://anglebrackets.org/#!/]
-+ ngConf
++ ngConf, [https://www.ng-conf.org/#/]
 
 #### NodeJS
-+ ngConf, [https://www.ng-conf.org/#/]
 + NodeConf EU, [http://www.nodeconf.eu/]
 + Node Interactive US, [http://events.linuxfoundation.org/events/node-interactive]
 + Node Interactive Europe, [http://events.linuxfoundation.org/events/node-interactive-europe]
