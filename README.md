@@ -24,7 +24,7 @@
   + OSCON, Open Source
   + Security
   + Software Architecture
-  + The Web Platform
+  + Fluent: The Web Platform
   + Velocity
 
 ### Languages and Frameworks
