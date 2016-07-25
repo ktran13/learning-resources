@@ -12,6 +12,7 @@
 
 ## Conferences
 ### Major
++ AWS re:Invent, [https://reinvent.awsevents.com/]
 + DevIntersection, [https://devintersection.com/#!/]
     + Visual Studio, ASP.NET, Azure, SQL, Sharepoint, Office 365
 + F8, [https://www.fbf8.com/]
@@ -30,6 +31,9 @@
 
 #### Java
 + Oracle Java One, Open World [https://www.oracle.com/javaone/index.html], [https://www.oracle.com/openworld/index.html]
+
+#### Python
++ Pycon, [https://us.pycon.org/]
 
 #### AngularJS
 + AngleBrackets, [https://anglebrackets.org/#!/]
