@@ -10,7 +10,7 @@
 + Team Treehouse, [https://teamtreehouse.com/]
 + Udacity, [https://www.udacity.com/classic]
 
-## Conferences
+## Developer Conferences
 ### Major
 + AWS re:Invent, [https://reinvent.awsevents.com/]
 + DevIntersection, [https://devintersection.com/#!/]
